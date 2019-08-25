@@ -1,3 +1,3 @@
 # NewGetTest
 Training
-This is my first traing.
+This is my first training.
